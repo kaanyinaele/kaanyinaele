@@ -1,6 +1,5 @@
 [![](https://github-readme-stats.vercel.app/api?username=kaanyinaele)](https://github.com/kaanyinaele/github-readme-stats)
-
-// <h1 align="center">Hi!</h1> //
+<br />
 
 ###
 <div align="center">
