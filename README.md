@@ -1,4 +1,4 @@
-<div align="center"> [![](https://github-readme-stats.vercel.app/api?username=kaanyinaele)](https://github.com/kaanyinaele/github-readme-stats) </div>
+ [![](https://github-readme-stats.vercel.app/api?username=kaanyinaele)](https://github.com/kaanyinaele/github-readme-stats)
 <br />
 
 ###
