@@ -4,7 +4,7 @@
 
 ###
 <h4> Active Tracks </h4>
-<div align="right">
+<div align="horizontal">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /> <p>JavaScript</p>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  /> <p>TypeScript</p>
